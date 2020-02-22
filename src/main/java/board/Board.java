@@ -54,6 +54,7 @@ public class Board {
             return LIVING;
         }
 
+
         return DEAD;
     }
 
